@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DotNet8\\KEDA-Metrics\\APIMetrics\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A499946C-58F4-489F-855A-3D0C43E38EA5}|APIMetrics.csproj|d:\\dotnet8\\keda-metrics\\apimetrics\\controllers\\metricscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A499946C-58F4-489F-855A-3D0C43E38EA5}|APIMetrics.csproj|solutionrelative:controllers\\metricscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A499946C-58F4-489F-855A-3D0C43E38EA5}|APIMetrics.csproj|d:\\dotnet8\\keda-metrics\\apimetrics\\models\\metricsdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A499946C-58F4-489F-855A-3D0C43E38EA5}|APIMetrics.csproj|solutionrelative:models\\metricsdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A499946C-58F4-489F-855A-3D0C43E38EA5}|APIMetrics.csproj|d:\\dotnet8\\keda-metrics\\apimetrics\\models\\targetvalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A499946C-58F4-489F-855A-3D0C43E38EA5}|APIMetrics.csproj|solutionrelative:models\\targetvalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A499946C-58F4-489F-855A-3D0C43E38EA5}|APIMetrics.csproj|d:\\dotnet8\\keda-metrics\\apimetrics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A499946C-58F4-489F-855A-3D0C43E38EA5}|APIMetrics.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A499946C-58F4-489F-855A-3D0C43E38EA5}|APIMetrics.csproj|d:\\dotnet8\\keda-metrics\\apimetrics\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A499946C-58F4-489F-855A-3D0C43E38EA5}|APIMetrics.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:269447166:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DotNet8\\KEDA-Metrics\\APIMetrics\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\DotNet8\\KEDA-Metrics\\APIMetrics\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T02:25:35.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TargetValue.cs",
+              "DocumentMoniker": "D:\\DotNet8\\KEDA-Metrics\\APIMetrics\\Models\\TargetValue.cs",
+              "RelativeDocumentMoniker": "Models\\TargetValue.cs",
+              "ToolTip": "D:\\DotNet8\\KEDA-Metrics\\APIMetrics\\Models\\TargetValue.cs",
+              "RelativeToolTip": "Models\\TargetValue.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T02:25:26.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MetricsDefinitions.cs",
+              "DocumentMoniker": "D:\\DotNet8\\KEDA-Metrics\\APIMetrics\\Models\\MetricsDefinitions.cs",
+              "RelativeDocumentMoniker": "Models\\MetricsDefinitions.cs",
+              "ToolTip": "D:\\DotNet8\\KEDA-Metrics\\APIMetrics\\Models\\MetricsDefinitions.cs",
+              "RelativeToolTip": "Models\\MetricsDefinitions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T02:25:22.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MetricsController.cs",
+              "DocumentMoniker": "D:\\DotNet8\\KEDA-Metrics\\APIMetrics\\Controllers\\MetricsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MetricsController.cs",
+              "ToolTip": "D:\\DotNet8\\KEDA-Metrics\\APIMetrics\\Controllers\\MetricsController.cs",
+              "RelativeToolTip": "Controllers\\MetricsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T02:25:14.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\DotNet8\\KEDA-Metrics\\APIMetrics\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\DotNet8\\KEDA-Metrics\\APIMetrics\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-23T02:25:09.574Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
